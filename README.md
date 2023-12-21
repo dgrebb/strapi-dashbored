@@ -2,6 +2,13 @@
 
 An example plugin for use with middleware redirection to semi-replace Strapi's default admin landing dashboard (and the healthcheck page).
 
+<details style="text-align: center">
+  <summary><h2 style="display: inline;">Animated Demo</h2></summary>
+  <p align="center">
+    <img src="dashbored-demo.gif" align="center" width="646" height="421" />
+  </p>
+</details>
+
 ---
 
 # 🚀 Getting started with Strapi
