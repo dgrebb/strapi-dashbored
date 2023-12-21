@@ -9,6 +9,11 @@ An example plugin for use with middleware redirection to semi-replace Strapi's d
   </p>
 </details>
 
+## Thanks to these threads and commeters
+
+- [Strapi how to redirect to different route after login v4+](https://stackoverflow.com/a/77030015/2033968)
+- [Customize the dashboard / welcome page](https://forum.strapi.io/t/customize-the-dashboard-welcome-page/939/36?u=dgrebb)
+
 ---
 
 # 🚀 Getting started with Strapi
